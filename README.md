@@ -1,4 +1,11 @@
-# 🦖 Hi, I'm Omar!
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Rakamoosaka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<h1 align="center">🦖 Hi, I'm Omar!</h1>
+<h3 align="center">Backend Developer & 1st-year Student at SDU University</h3>
+<p align="center">
+  <em>"أنا رائع"</em>
+</p>
 
 ## About Me
 <table style="width:100%; border-collapse:collapse;">
@@ -6,7 +13,7 @@
     <td style="vertical-align:top;">
       <ul style="list-style-type:none; padding-left:0;">
         <li>🎓 <strong>First-year</strong> "Information Systems" student at SDU University </li>
-        <li>🔒 <strong>Aspiring</strong> Backend developer </li>
+        <li>💼 <strong>Interests:</strong>Building interesting projects, learning cybersecurity</li>
         <li>🌱 <strong>Currently learning:</strong> Python frameworks </li>
         <li>🎯 <strong>Goal:</strong> Become proficient in building Web-based Applications </li>
       </ul>
@@ -37,8 +44,7 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sup1p&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sup1p&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sup1p)---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sup1p)
 
 ⭐️ *Follow me for more awesome projects!*
 
