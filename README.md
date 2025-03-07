@@ -28,8 +28,7 @@
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sup1p&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sup1p&layout=compact&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sup1p)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sup1p"/></a>
 ---
 
 ⭐️ *Follow me for more awesome projects!*
