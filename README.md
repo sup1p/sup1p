@@ -1,12 +1,22 @@
 # 🦖 Hi, I'm Omar!
 
-## 👨‍💻 About Me
-- 🎓 First-year **Information Systems** student at SDU University
-- 🔒 Aspiring **Backend developer**
-- 🌱 Currently learning **Python frameworks**
-- 🎯 Goal: Becoming a well-rounded **Software Engineer** mastering all aspects of development
+## About Me
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      <ul style="list-style-type:none; padding-left:0;">
+        <li>🎓 <strong>First-year</strong> "Information Systems" student at SDU University </li>
+        <li>🔒 <strong>Aspiring</strong> Backend developer </li>
+        <li>🌱 <strong>Currently learning:</strong> Python frameworks </li>
+        <li>🎯 <strong>Goal:</strong> Become proficient in building Web-based Applications </li>
+      </ul>
+    </td>
+    <td align="right" style="padding-left:20px; vertical-align:top;">
+      <img width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Coding GIF" style="border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
 
----
 
 ## 🔧 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
