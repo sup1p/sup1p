@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td align="right" style="padding-left:20px; vertical-align:top;">
-      <img width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Coding GIF" style="border-radius:10px;"/>
+      <img width="400" src="https://i.pinimg.com/originals/5f/12/5d/5f125d109b0c9e79d3e79df16511f9d8.gif" alt="Coding GIF" style="border-radius:10px;"/>
     </td>
   </tr>
 </table>
