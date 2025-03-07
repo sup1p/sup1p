@@ -12,9 +12,8 @@
   <tr>
     <td style="vertical-align:top;">
       <ul style="list-style-type:none; padding-left:0;">
-        <li>🎓 <strong>First-year</strong> "Information Systems" student at SDU University </li>
-        <li>💼 <strong>Interests:</strong>Building interesting projects, learning cybersecurity</li>
-        <li>🌱 <strong>Currently learning:</strong> Python frameworks </li>
+        <li>💼 <strong>Interests:</strong>Building interesting projects, learning AI</li>
+        <li>🌱 <strong>Currently learning:</strong>Python frameworks</li>
         <li>🎯 <strong>Goal:</strong> Become proficient in building Web-based Applications </li>
       </ul>
     </td>
