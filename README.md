@@ -17,9 +17,6 @@
         <li>🎯 <strong>Goal:</strong> Become proficient in building Web-based Applications </li>
       </ul>
     </td>
-    <td align="right" style="padding-left:20px; vertical-align:top;">
-      <img width="400" src="https://i.pinimg.com/originals/5f/12/5d/5f125d109b0c9e79d3e79df16511f9d8.gif" alt="Coding GIF" style="border-radius:10px;"/>
-    </td>
   </tr>
 </table>
 
@@ -44,6 +41,4 @@
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sup1p&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sup1p)
-
-⭐️ *Follow me for more awesome projects!*
 
